@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;vn.vnua.Hibernate_01.App&apos; to &apos;AppMain&apos;&#x0D;&#x0A;- Original project: &apos;Hibernate_01&apos;&#x0D;&#x0A;- Original element: &apos;vn.vnua.Hibernate_01.App&apos;&#x0D;&#x0A;- Renamed element: &apos;vn.vnua.Hibernate_01.AppMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;App&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;vn.vnua.Hibernate_01{App.java[App" matchStrategy="1" name="AppMain" qualified="false" references="true" similarDeclarations="false" stamp="1702962009973" textual="false" version="1.0"/>
+</session>
